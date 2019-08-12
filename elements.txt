@@ -26,6 +26,7 @@ Nitrogen
 
 Oxygen
    Atomic Number: 8
+   Atomic Mass: 15.999
 
 Fluorine
    Atomic Number: 9
