@@ -31,6 +31,7 @@ Neon
 
 Sodium
    Atomic Number: 11
+   Atomic Mass: 22.989
 
 Magnesium
    Atomic Number: 12
