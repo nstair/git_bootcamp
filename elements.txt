@@ -27,6 +27,7 @@ Fluorine
    Atomic Number: 9
 
 Neon
+   Atomic Mass: 20.1797
    Atomic Number: 10
 
 Sodium
