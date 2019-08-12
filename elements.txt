@@ -8,6 +8,7 @@ Helium
 
 Lithium
    Atomic Number: 3
+   Atomic Mass: 6.941
 
 Beryllium
    Atomic Number: 4
