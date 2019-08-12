@@ -13,6 +13,7 @@ Beryllium
 
 Boron
    Atomic Number: 5
+   Atomic Mass: 10.811
 
 Carbon
    Atomic Number: 6
