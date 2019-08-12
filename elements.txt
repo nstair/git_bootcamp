@@ -22,6 +22,7 @@ Carbon
 
 Nitrogen
    Atomic Number: 7
+   Atomic Mass: 14.007
 
 Oxygen
    Atomic Number: 8
