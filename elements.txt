@@ -44,6 +44,7 @@ Sodium
 
 Magnesium
    Atomic Number: 12
+   Atomic Mass: 24.305
 
 Aluminum
    Atomic Number: 13
