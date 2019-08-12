@@ -32,6 +32,7 @@ Oxygen
 
 Fluorine
    Atomic Number: 9
+   Atomic Mass: 18.998403
 
 Neon
    Atomic Mass: 20.1797
