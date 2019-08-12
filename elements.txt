@@ -11,6 +11,7 @@ Lithium
 
 Beryllium
    Atomic Number: 4
+   Atomic Mass: 9.0122
 
 Boron
    Atomic Number: 5
